@@ -3,7 +3,7 @@ gunicorn
 altair
 altair-data-server
 altair-saver
-dash
+dash==2.1.0
 dash_bootstrap_components
 plotly==4.14.3
 vega-datasets
